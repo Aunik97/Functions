@@ -1,6 +1,3 @@
-
-
-
 def get_input():
     while True:
         stars = int(input("enter how many stars that is an odd integer"))
